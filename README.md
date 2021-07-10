@@ -1,5 +1,5 @@
 # Hi there, I'm Aathil
-## I'm a Developer and tech enthusiast!!
+## I'm a Software Developer and Tech enthusiast!!
 
 - 🌱 I’m currently learning Python and Android Development with Kotlin.
 - 👯 I’m looking for job oppurtunities.
@@ -28,7 +28,7 @@
 <br/>
 
 ### Connect with me:
-[<img align="left" alt="Aathil | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Aathil | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
 <br/>
 
 
