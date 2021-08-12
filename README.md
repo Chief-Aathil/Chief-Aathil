@@ -24,6 +24,7 @@
 <img align="left" alt="Heroku" width="26px" src="https://logowiki.net/uploads/logo/h/heroku.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Visual Studio " width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/768px-Visual_Studio_Icon_2019.svg.png" />
+<img align="left" alt="IntelliJ IDEA " width="26px" src="https://github.com/Chief-Aathil/Chief-Aathil/blob/main/res/icons/icons8-intellij-idea.svg" />
 <img align="left" alt="Android Studio " width="26px" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png" />
 <br/>
 
