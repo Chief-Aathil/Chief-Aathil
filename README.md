@@ -1,7 +1,7 @@
 # Hi there, I'm Aathil
 ## I'm a Software Developer and Tech enthusiast!!
 
-- 🌱 I’m currently learning Python and Android Development with Kotlin.
+- 🌱 I’m currently learning SpringBoot.
 - 👯 I’m looking for job oppurtunities.
 - ⚡ Fun fact: I love to play Badminton🏸, Table Tennis 🏓 and Chess♟.
 
