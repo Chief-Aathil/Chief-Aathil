@@ -1,8 +1,7 @@
 # Hi there, I'm Aathil
 ## I'm a Software Developer and Tech enthusiast!!
 
-- 🌱 I’m currently learning SpringBoot.
-- 👯 I’m looking for job oppurtunities.
+- 🌱 I’m currently learning Node.js, TypeScript and GraphQL.
 - ⚡ Fun fact: I love to play Badminton🏸, Table Tennis 🏓 and Chess♟.
 
 
