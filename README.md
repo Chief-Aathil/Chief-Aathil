@@ -1,8 +1,11 @@
 # Hi there, I'm Aathil
 ## I'm a Software Engineer and Tech enthusiast!!
 
-- 🌱 I’m currently working with SpringBoot, Java(11), PostgreSQL, Google-cloud.
-- ⚡ Fun fact: I love to play Badminton🏸, Table Tennis 🏓 and Chess♟.
+- Languages: Java, TypeScript, JavaScript, C++
+- Frameworks: Spring Boot, NestJS, Conductor OSS, NodeJS, ExpressJS
+- Cloud: AWS, GCP
+- DB: PostgreSQL
+- Others: Microservices, REST, GraphQL, NPM, Gradle, Workflow orchestration, Event driven architecture 
 
 
 ### Languages: 
