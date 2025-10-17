@@ -1,11 +1,12 @@
 # Hi there, I'm Aathil
 ## I'm a Software Engineer and Tech enthusiast!!
 
-- Languages: Java, TypeScript, JavaScript, C++
-- Frameworks: Spring Boot, NestJS, Conductor OSS, NodeJS, ExpressJS
-- Cloud: AWS, GCP
-- DB: PostgreSQL
-- Others: Microservices, REST, GraphQL, NPM, Gradle, Workflow orchestration, Event driven architecture 
+- Languages: **Java, TypeScript, JavaScript**, C++
+- Frameworks: **Spring Boot, NestJS, NodeJS**, Conductor OSS, ExpressJS
+- Cloud: **AWS, GCP**, Azure
+- DB: PostgreSQL, MongoDB
+- Technologies: **Microservices, Event-driven architecture**, Workflow orchestration(Conductor OSS), 
+  REST, GraphQL, Docker, Gradle, Maven, npm, JUnit, Mockito, Jest, Flyway, Hibernate, TypeORM, CI/CD
 
 
 ### Languages: 
